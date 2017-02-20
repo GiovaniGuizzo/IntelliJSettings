@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="compile_output" type="PLAIN_TEXT" />
+      <mapping pattern="mutant_log" type="PLAIN_TEXT" />
+      <mapping pattern="mutation_log" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
